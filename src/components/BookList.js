@@ -22,9 +22,9 @@ class BookList extends React.Component {
                         <section className="page-section" style={{background: theme.bg, color:theme.txt}} id="portfolio">
                         <div className="container">
                             <div className="text-center">
-                                <h2 className="section-heading text-uppercase">BookFolio</h2>
+                                <h2 className="section-heading text-uppercase">BookBank</h2>
                                 <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                                <button type="button" className="btn btn-sm btn-info" style={{marginTop: '-70px'}}
+                                <button type="button" className="btn btn-dark" style={{marginTop: '-70px'}}
                                 onClick={changeTheme}>Change Theme</button>
                             </div>
                             <div className="row">
